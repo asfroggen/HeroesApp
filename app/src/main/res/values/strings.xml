@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HeroesApp</string>
+
+    <string name="content_desc__logo">Heroes app logo</string>
+    <string name="content_desc__on_boarding">On boarding image</string>
+    <string name="content_desc__search_icon">Search icon</string>
+
+    <string name="star_path">M14,21.288,21.416,26l-1.968-8.88L26,11.145l-8.628-.771L14,2l-3.372,8.375L2,11.145,8.552,17.12,6.584,26Z</string>
+    <string name="content_desc__hero_item">Hero image</string>
+    <string name="content_desc__error_icon">Network error icon</string>
+    <string name="content_desc__close_icon">Close icon</string>
+    <string name="info_icon">Info icon</string>
+    <string name="power">Power</string>
+    <string name="Month">Month</string>
+    <string name="birthday">Birthday</string>
+    <string name="about">About</string>
+    <string name="family">Family</string>
+    <string name="abilities">Abilities</string>
+    <string name="nature_types">Nature types</string>
+</resources>
